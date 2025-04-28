@@ -1,0 +1,30 @@
+Q01
+multimodal travel services
+///
+Q02
+Big Data for Mobility 
+///
+Q03
+European logistics applications
+///
+Q04
+Architectures for Big Data Analytics
+///
+Q05
+Architecture for Industrial IoT
+///
+Q06
+Mobility-as-a-Service tools
+///
+Q07
+fragmentation of IoT through federation 
+///
+Q08
+Seamless Efficient European Travelling 
+///
+Q09
+cross-domain orchestration of services
+///
+Q10
+communal organisation of network infrastucture
+///

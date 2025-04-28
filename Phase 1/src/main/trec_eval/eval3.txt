@@ -1,0 +1,26 @@
+runid                 	all	MySystem
+num_q                 	all	10
+num_ret               	all	500
+num_rel               	all	152
+num_rel_ret           	all	33
+map                   	all	0.0983
+gm_map                	all	0.0034
+Rprec                 	all	0.1249
+bpref                 	all	0.2374
+recip_rank            	all	0.2878
+iprec_at_recall_0.00  	all	0.2959
+iprec_at_recall_0.10  	all	0.2420
+iprec_at_recall_0.20  	all	0.1722
+iprec_at_recall_0.30  	all	0.1389
+iprec_at_recall_0.40  	all	0.1183
+iprec_at_recall_0.50  	all	0.1074
+iprec_at_recall_0.60  	all	0.0708
+iprec_at_recall_0.70  	all	0.0462
+iprec_at_recall_0.80  	all	0.0341
+iprec_at_recall_0.90  	all	0.0000
+iprec_at_recall_1.00  	all	0.0000
+P_5                   	all	0.1400
+P_10                  	all	0.1500
+P_15                  	all	0.1200
+P_20                  	all	0.1050
+

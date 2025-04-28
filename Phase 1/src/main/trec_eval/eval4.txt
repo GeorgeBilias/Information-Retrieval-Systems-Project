@@ -1,0 +1,27 @@
+runid                 	all	myIRmethod
+num_q                 	all	10
+num_ret               	all	500
+num_rel               	all	152
+num_rel_ret           	all	97
+map                   	all	0.3767
+gm_map                	all	0.2728
+Rprec                 	all	0.4066
+bpref                 	all	0.6396
+recip_rank            	all	0.7267
+iprec_at_recall_0.00  	all	0.7912
+iprec_at_recall_0.10  	all	0.6672
+iprec_at_recall_0.20  	all	0.6117
+iprec_at_recall_0.30  	all	0.5342
+iprec_at_recall_0.40  	all	0.4642
+iprec_at_recall_0.50  	all	0.3292
+iprec_at_recall_0.60  	all	0.2949
+iprec_at_recall_0.70  	all	0.2549
+iprec_at_recall_0.80  	all	0.2165
+iprec_at_recall_0.90  	all	0.1260
+iprec_at_recall_1.00  	all	0.0842
+P_5                   	all	0.5200
+P_10                  	all	0.4200
+P_15                  	all	0.3933
+P_20                  	all	0.3350
+
+
