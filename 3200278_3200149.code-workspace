@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"Phase 1/lib/lucene/lucene-analyzers-common-7.7.3.jar",
+			"Phase 1/lib/lucene/lucene-classification-7.7.3.jar",
+			"Phase 1/lib/lucene/lucene-core-7.7.3.jar",
+			"Phase 1/lib/lucene/lucene-queryparser-7.7.3.jar"
+		]
+	}
+}
